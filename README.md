@@ -1,2 +1,2 @@
 # JavaLabo1
-1er Labo en JAva
+# 1er Labo en Java
